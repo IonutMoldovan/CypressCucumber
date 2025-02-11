@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Cypress folder containing test results, videos, and screenshots
+cypress/screenshots/
+cypress/videos/
+
+# TypeScript output
+dist/
+
+# Logs
+*.log
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
